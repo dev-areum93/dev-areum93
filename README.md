@@ -37,7 +37,7 @@
 </br>
 :email: How to reach me : sareum10@gmail.com
 </br>
-📓 Notion : https://young-overcoat-6c2.notion.site/8a7c62ae04094a0088963051a78928f9
+📓 Notion : <a href="https://young-overcoat-6c2.notion.site/8a7c62ae04094a0088963051a78928f9">Areum's Notion</a>
 
 <!--
 **areum-shin/areum-shin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
