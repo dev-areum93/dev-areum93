@@ -33,6 +33,7 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
   <br />
 
+:email: How to reach me : sareum08@gmail.com
 :email: How to reach me : sareum10@gmail.com
 
 <!--
